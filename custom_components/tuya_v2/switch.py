@@ -37,6 +37,7 @@ TUYA_SUPPORT_TYPE = {
     "zndb",  # Smart Electricity Meter
     "fs",  # Fan
     "sd",  # Vacuum
+    "tgq", # smart dimmer switch
     "zndb" "kfj",  # Smart Electricity Meter  # Coffee Maker
 }
 
